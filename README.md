@@ -1,1 +1,1 @@
-[linktest](baidu.com)
+[linktest](https://baidu.com)
