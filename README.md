@@ -1,1 +1,1 @@
-# test
+[linktest](baidu.com)
